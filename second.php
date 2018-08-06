@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<head>
+ <title>Second Page</title>
+</head>
 <?php
-echo "My first PHP script!";
+echo "this is the second page";
 ?> 
 
 </body>
