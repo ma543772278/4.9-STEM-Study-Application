@@ -8,6 +8,7 @@
 <body>
       <h1>Index Page</h1>
 	<p><a href="second.php">Second page </a> <br /> - Went to second page</p>
+	<p><a href="firstPage.php">first page </a> <br /> - Went to first page</p>
 	<form action="second.php">
 	<button type="submit" formaction = "second.php">Second page</button>
 	
